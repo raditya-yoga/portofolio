@@ -57,7 +57,7 @@ export default function Connect() {
     {
       name: 'GitHub',
       value: 'github.com/radit-yoga',
-      url: 'https://github.com/radit-yoga',
+      url: 'https://github.com/raditya-yoga',
       icon: <GithubIcon size={22} />,
       color: 'var(--accent-cyan)',
       desc: 'Browse my repositories, open source contributions, and web experiments.'

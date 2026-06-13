@@ -42,7 +42,7 @@ export default function BeyondTechnology() {
           </div>
           <h2 className="section-title text-gradient-white">Beyond Technology</h2>
           <p className="section-subtitle">
-            Exploring the physical interfaces. My curiosity for design doesn't end with pixels—I study the industrial craftsmanship and engineering of physical computing.
+            Exploring the physical interfaces. My curiosity for design doesn't end with pixels—I studied industrial skills and computing and informatic engineering.
           </p>
         </div>
 

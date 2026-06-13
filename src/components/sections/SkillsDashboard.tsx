@@ -14,19 +14,19 @@ export default function SkillsDashboard() {
       title: 'Frontend Engineering',
       icon: <Code size={20} />,
       color: 'var(--accent-cyan)',
-      skills: ['React', 'TypeScript', 'JavaScript', 'HTML5', 'CSS3 / Vanilla CSS', 'ES6+']
+      skills: ['JavaScript', 'HTML5', 'CSS3 / Vanilla CSS',]
     },
     {
       title: 'Backend & Databases',
       icon: <Database size={20} />,
       color: 'var(--primary)',
-      skills: ['Node.js', 'PHP', 'MongoDB', 'MySQL', 'Express', 'REST APIs']
+      skills: ['Node.js', 'PHP', 'MongoDB', 'MySQL',]
     },
     {
       title: 'Tools & Creative Design',
       icon: <Hammer size={20} />,
       color: 'var(--accent-violet)',
-      skills: ['Figma', 'Git', 'GitHub', 'VS Code', 'Adobe Premiere Pro', 'UI Design Systems']
+      skills: ['Figma', 'Git', 'GitHub', 'VS Code', 'Adobe Premiere Pro', 'UI Design Systems', 'Canva']
     }
   ];
 
