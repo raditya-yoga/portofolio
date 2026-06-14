@@ -7,31 +7,31 @@ export default function CreativeRoots() {
     {
       icon: <Camera size={24} style={{ color: 'var(--primary)' }} />,
       title: 'Videography',
-      desc: 'Behind the camera, I learned composition, framing, and lighting. Guiding the viewer\'s eye in a 16:9 frame is the basis of visual hierarchy.',
+      desc: 'Di balik kamera, saya belajar komposisi, framing, dan pencahayaan—dasar dari hierarki visual.',
       accent: 'var(--primary)'
     },
     {
       icon: <BookOpen size={24} style={{ color: 'var(--accent-violet)' }} />,
       title: 'Storytelling',
-      desc: 'Filmmaking taught me how to construct emotional narrative arcs. Every digital product has a user journey—an interface is just a story told through action.',
+      desc: 'Dunia perfilman mengajarkan saya cara membangun alur cerita yang emosional. Setiap produk digital memiliki perjalanan pengguna—sebuah antarmuka pada dasarnya adalah cerita yang disampaikan melalui interaksi.',
       accent: 'var(--accent-violet)'
     },
     {
       icon: <PenTool size={24} style={{ color: 'var(--accent-cyan)' }} />,
       title: 'Visual Design',
-      desc: 'Applying cinematography principles (color theory, balance, negative space) to digital layouts. Transitioning from video pixels to grid structures.',
+      desc: 'Menerapkan prinsip sinematografi seperti teori warna, keseimbangan, dan ruang kosong (negative space) ke dalam tata letak digital. Beralih dari piksel dalam video ke struktur grid dalam desain.',
       accent: 'var(--accent-cyan)'
     },
     {
       icon: <Layout size={24} style={{ color: '#10b981' }} />,
       title: 'UI/UX Design',
-      desc: 'Connecting storytelling with user behavior. I map out intuitive interactive blueprints, ensuring the layout responds seamlessly to human intention.',
+      desc: 'Menghubungkan storytelling dengan perilaku pengguna. Saya merancang alur interaktif yang intuitif, memastikan setiap elemen dapat merespons kebutuhan dan tujuan pengguna dengan baik.',
       accent: '#10b981'
     },
     {
       icon: <Code2 size={24} style={{ color: '#f59e0b' }} />,
       title: 'Web Development',
-      desc: 'The ultimate realization of a concept. Bringing high-fidelity designs to life with TypeScript and React—turning stories into functional, high-performance systems.',
+      desc: 'Tahap akhir dari sebuah konsep. Menghidupkan desain berfidelitas tinggi dengan TypeScript dan React—mengubah ide dan cerita menjadi sistem yang fungsional serta berkinerja tinggi.',
       accent: '#f59e0b'
     }
   ];
@@ -66,7 +66,7 @@ export default function CreativeRoots() {
           </div>
           <h2 className="section-title text-gradient-white">Creative Roots</h2>
           <p className="section-subtitle">
-            How filmmaking, narrative structure, and visual composition directly shaped my approach to designing and developing digital products.
+            Bagaimana pembuatan film, struktur narasi, dan komposisi visual secara langsung membentuk pendekatan saya dalam merancang dan mengembangkan produk digital.
           </p>
         </div>
 
@@ -95,10 +95,10 @@ export default function CreativeRoots() {
             }}
           >
             <h3 style={{ fontSize: '1.75rem', marginBottom: '1rem', color: '#ffffff' }}>
-              "My journey started behind a lens."
+              "Perjalanan saya dimulai dari belakang lensa."
             </h3>
             <p style={{ fontSize: '1.05rem', color: 'var(--text-secondary)', lineHeight: '1.7', maxWidth: '900px' }}>
-              Videography was my first playground. Capturing light and framing scenes taught me the core fundamentals of design long before I ever wrote a line of HTML. It taught me that <strong>every pixel has a purpose</strong>, that movement must be intentional, and that user experience is simply another form of storytelling. Today, I translate the pacing, timing, and composition from filmmaking into web layouts and functional code.
+              Videografi adalah tempat saya pertama kali belajar berkreasi. Mengamati cahaya dan membingkai setiap adegan mengajarkan saya dasar-dasar desain jauh sebelum saya menulis satu baris HTML. Dari sana, saya memahami bahwa <strong>setiap piksel memiliki tujuan</strong>, bahwa setiap gerakan harus memiliki makna, dan bahwa pengalaman pengguna pada dasarnya adalah bentuk lain dari penyampaian cerita. Kini, saya menerjemahkan ritme, tempo, dan komposisi yang saya pelajari dari dunia perfilman ke dalam tata letak web dan kode yang fungsional.
             </p>
           </motion.div>
 

@@ -5,14 +5,14 @@ export default function LeadershipTimeline() {
   const timelineData = [
     {
       year: '2022 – 2023',
-      role: 'Student Council Secretary',
+      role: 'Sekretaeis Osis',
       org: 'OSIS (Student Council)',
       icon: <Landmark size={20} style={{ color: 'var(--accent-cyan)' }} />,
       color: 'var(--accent-cyan)',
       details: [
-        'Managed documentation, school communications, and administrative files.',
-        'Laid organizational blueprints for annual student events and budget planning.',
-        'Bridged communication between faculty advisors and student representatives.'
+        'Mengelola dokumentasi, komunikasi sekolah, dan tugas-tugas administrasi.',
+        'Menyusun perencanaan kegiatan tahunan organisasi serta pengelolaan anggaran.',
+        'Menjadi penghubung komunikasi antara pembina dan perwakilan siswa.'
       ]
     },
     {
@@ -22,21 +22,20 @@ export default function LeadershipTimeline() {
       icon: <Camera size={20} style={{ color: 'var(--primary)' }} />,
       color: 'var(--primary)',
       details: [
-        'One of five students who conceptualized and established the club.',
-        'Drafted the club charter and designed the inaugural hands-on training curriculum.',
-        'Secured camera resources and equipment sponsorships for junior members.'
+        'Salah satu dari lima siswa yang menggagas dan mendirikan klub.',
+        'Berhasil memperoleh dukungan peralatan, termasuk kamera, guna mendukung pengembangan anggota junior.'
       ]
     },
     {
       year: '2023 – 2024',
-      role: 'Student Council President / Chairman',
+      role: 'Ketua Osis',
       org: 'OSIS (Student Council)',
       icon: <Shield size={20} style={{ color: 'var(--accent-violet)' }} />,
       color: 'var(--accent-violet)',
       details: [
-        'Led student administration, spearheading community and school-wide programs.',
-        'Chaired assemblies, coordinated multi-departmental project squads, and managed resources.',
-        'Delivered public speeches, representing student voices directly to school management.'
+        'Mengelola administrasi kesiswaan dan memimpin pelaksanaan berbagai program sekolah maupun kegiatan sosial.',
+        'Memimpin rapat organisasi, mengoordinasikan tim lintas divisi, serta mengelola sumber daya yang tersedia.',
+        'Berperan sebagai perwakilan siswa dalam komunikasi dan penyampaian aspirasi kepada pihak sekolah.'
       ]
     },
     {
@@ -46,18 +45,18 @@ export default function LeadershipTimeline() {
       icon: <Users size={20} style={{ color: '#10b981' }} />,
       color: '#10b981',
       details: [
-        'Directed overall club activities and weekly filmmaking workshops.',
-        'Coordinated production crews for regional and national videography events.',
-        'Mentored members on composition, cinematic editing, and story structure.'
+        'Mengarahkan seluruh kegiatan ekstra serta pelaksanaan workshop perfilman mingguan.',
+        'Mengoordinasikan tim produksi untuk berbagai kegiatan videografi tingkat regional dan nasional.',
+        'Membimbing anggota dalam teknik komposisi visual, editing sinematik, dan penyusunan alur cerita.'
       ]
     }
   ];
 
   const softSkills = [
-    { name: 'Organizational Leadership', desc: 'Running student bodies and teams, managing timelines, budgets, and operational goals.' },
-    { name: 'Public Speaking', desc: 'Presenting ideas confidently to large assemblies, administrators, and audiences.' },
-    { name: 'Team Management', desc: 'Coordinating diverse student groups, fostering cooperation, and mentoring junior talents.' },
-    { name: 'Communication', desc: 'Structuring clear documents, visual briefs, and bridging stakeholders.' }
+    { name: 'Kepemimpinan Organisasi', desc: 'Memimpin tim dan organisasi dengan fokus pada koordinasi, perencanaan, pengelolaan sumber daya, serta pencapaian tujuan bersama.' },
+    { name: 'Public Speaking', desc: 'Menyampaikan ide dan gagasan secara percaya diri di hadapan forum besar, pihak manajemen, maupun berbagai audiens dengan komunikasi yang jelas dan efektif.' },
+    { name: 'Team Management', desc: 'Mengelola kolaborasi antaranggota tim, mendorong kerja sama, dan mendampingi anggota baru dalam proses pengembangan diri.' },
+    { name: 'Komunikasi', desc: 'Menyusun dokumentasi yang terstruktur, membuat brief yang jelas dan informatif, serta menjembatani komunikasi antara berbagai pihak yang terlibat dalam proyek.' }
   ];
 
   return (
@@ -268,7 +267,7 @@ export default function LeadershipTimeline() {
                   marginBottom: '2rem'
                 }}
               >
-                Managing student organizations and filmmaking crews taught me how to structure processes, align interests, and inspire action. These soft skills form the foundation of my engineering collaborative style.
+                Pengalaman memimpin organisasi mahasiswa dan kru produksi film membantu saya memahami pentingnya proses yang terstruktur, koordinasi tim, dan kepemimpinan yang efektif. Soft skill inilah yang menjadi dasar pendekatan kolaboratif saya dalam dunia engineering.
               </p>
 
               {/* Skills Grid */}

@@ -151,7 +151,7 @@ export default function FeaturedQuote() {
                 marginTop: '1.5rem'
               }}
             >
-              Radit Yoga — Personal Creed
+              Raditya Yoga — Personal Creed
             </cite>
           </motion.div>
         </div>
