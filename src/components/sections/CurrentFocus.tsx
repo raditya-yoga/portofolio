@@ -14,35 +14,35 @@ export default function CurrentFocus() {
     {
       icon: <LayoutGrid size={22} />,
       title: 'UI/UX Design Systems',
-      desc: 'Researching multi-platform design consistency, design token architecture, and governance strategies to bridges Figma layouts with React components.',
+      desc: 'Mendalami cara menjaga konsistensi desain di berbagai platform, menyusun struktur komponen yang rapi, dan mencari cara terbaik untuk menghubungkan hasil desain dari Figma langsung ke komponen web.',
       topics: ['Token Governance', 'Figma Variables', 'Component Libraries'],
       color: 'var(--accent-cyan)'
     },
     {
       icon: <Sparkles size={22} />,
       title: 'Modern Frontend Development',
-      desc: 'Experimenting with React compiler, server-side frameworks (Next.js), layout performance optimizations, and fluid animation physics.',
+      desc: 'Bereksperimen dengan React compiler, framework server-side (Next.js), mengoptimalkan performa loading web, serta bikin animasi interaktif yang halus dan responsif.',
       topics: ['Next.js App Router', 'React Compiler', 'Framer Motion Physics'],
       color: 'var(--primary)'
     },
     {
       icon: <Cpu size={22} />,
       title: 'Artificial Intelligence',
-      desc: 'Exploring generative user interfaces, integrating large language model endpoints into client applications, and building semantic prompt workflows.',
+      desc: 'Mengeksplorasi UI yang dinamis berbasis AI, mencoba integrasi API Large Language Model (LLM) ke dalam aplikasi, sampai ngulik cara bikin prompt yang cerdas dan efektif.',
       topics: ['LLM Integrations', 'AI Generative UI', 'Prompt Design'],
       color: 'var(--accent-violet)'
     },
     {
       icon: <Compass size={22} />,
       title: 'Emerging Technologies',
-      desc: 'Diving deeper into WebXR standards, virtual space dimensions, and local device camera integrations to build cross-device browser augmented realities.',
+      desc: 'Mencoba menyelami standar WebXR dan pemanfaatan kamera perangkat untuk bikin pengalaman Augmented Reality (AR) yang bisa langsung jalan dengan mulus di browser berbagai perangkat.',
       topics: ['WebXR & WebGL', 'Three.js Shaders', 'Device Camera APIs'],
       color: '#10b981'
     },
     {
       icon: <BookOpen size={22} />,
       title: 'Digital Product Design',
-      desc: 'Analyzing user cognitive patterns, conversion loops, micro-copy, and interaction design psychology to build products that delight.',
+      desc: 'Belajar menganalisis kebiasaan dan psikologi pengguna saat pakai aplikasi, merancang micro-copy yang pas, demi menciptakan produk digital yang seru dan bikin betah pas digunakan.',
       topics: ['Cognitive Loading', 'Behavioral Loops', 'Micro-interactions'],
       color: '#f59e0b'
     }

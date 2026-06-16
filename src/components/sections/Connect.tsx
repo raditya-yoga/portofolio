@@ -40,8 +40,8 @@ export default function Connect() {
   const networks = [
     {
       name: 'Email',
-      value: 'radityogap@gmail.com',
-      url: 'mailto:radityogap@gmail.com',
+      value: '-',
+      url: 'mailto:-',
       icon: <Mail size={22} />,
       color: 'var(--primary)',
       desc: 'For professional inquiries, project collaborations, and leadership roles.'
@@ -56,7 +56,7 @@ export default function Connect() {
     },
     {
       name: 'GitHub',
-      value: 'github.com/radit-yoga',
+      value: 'github.com/raditya-yoga',
       url: 'https://github.com/raditya-yoga',
       icon: <GithubIcon size={22} />,
       color: 'var(--accent-cyan)',
@@ -99,7 +99,7 @@ export default function Connect() {
             }}
             className="text-gradient-white"
           >
-            Let's Build Something Meaningful
+            Let's connect and be friends!
           </h2>
           <p
             style={{
@@ -109,7 +109,7 @@ export default function Connect() {
               lineHeight: '1.6'
             }}
           >
-            I am always open to discussing new web development projects, interactive UI/UX design concepts, collaborative leadership, or media production ideas. Reach out through my coordinates below.
+          Selalu terbuka buat nambah teman baru atau diskusi seputar dunia digital dan ide-ide kreatif. Jangan ragu buat hubungi saya lewat kontak di bawah ya!
           </p>
 
           {/* Networking Coordinates Grid */}

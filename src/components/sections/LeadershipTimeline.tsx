@@ -5,7 +5,7 @@ export default function LeadershipTimeline() {
   const timelineData = [
     {
       year: '2022 – 2023',
-      role: 'Sekretaeis Osis',
+      role: 'Sekretaris Osis',
       org: 'OSIS (Student Council)',
       icon: <Landmark size={20} style={{ color: 'var(--accent-cyan)' }} />,
       color: 'var(--accent-cyan)',
@@ -40,7 +40,7 @@ export default function LeadershipTimeline() {
     },
     {
       year: '2023 – 2025',
-      role: 'Videography Club Chairman',
+      role: 'Ketua ekstrakulikuler Videografi',
       org: 'Videography Club',
       icon: <Users size={20} style={{ color: '#10b981' }} />,
       color: '#10b981',

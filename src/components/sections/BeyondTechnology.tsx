@@ -6,26 +6,26 @@ export default function BeyondTechnology() {
     {
       icon: <Smartphone size={24} style={{ color: 'var(--primary)' }} />,
       title: 'Smartphones & Aesthetics',
-      desc: 'Fascinated by mobile industrial designs. Analyzing how camera bump layouts, screen bezel curves, tactile button haptics, and colorway finishes shape user branding and grip ergonomics.',
+      desc: 'Selalu kagum sama desain fisik smartphone. Saya suka mengamati bagaimana tata letak kamera, lengkungan bezel, sensasi klik tombol, hingga pilihan warna bisa memengaruhi kenyamanan genggaman dan identitas si pengguna."',
       category: 'Industrial Design'
     },
     {
       icon: <Laptop size={24} style={{ color: 'var(--accent-violet)' }} />,
       title: 'Laptops & Ergonomics',
-      desc: 'Studying structural engineering designs: display hinge mechanisms, chassis heat dissipation pathways, scissor-switch keyboard travel depths, and glass trackpad tactile feedbacks.',
+      desc: 'Mengikuti tren komputasi laptop yang semakin bertenaga namun efisien. Tertarik menganalisis lompatan performa pada prosesor modern, integrasi kartu grafis hemat daya, hingga manajemen termal yang menjaga performa hardware tetap stabil.',
       category: 'Ergonomic Build'
     },
     {
       icon: <Cpu size={24} style={{ color: 'var(--accent-cyan)' }} />,
       title: 'PC Hardware Architectures',
-      desc: 'Building custom computer rigs and routing layout designs. Fascinated by physical hardware configurations: GPU architecture steps, cooling liquid loops, and component visual layouts.',
+      desc: 'Suka mengulik komponen PC desktop dari sisi teknis dan performa mentahnya. Selalu antusias memperhatikan arsitektur GPU generasi terbaru, batas maksimal kecepatan memori (RAM), serta bagaimana kombinasi hardware ini bisa dikonfigurasi untuk performa paling maksimal.',
       category: 'Physical Assembly'
     },
     {
       icon: <Radio size={24} style={{ color: '#10b981' }} />,
-      title: 'Digital Innovations',
-      desc: 'Keeping close track of spatial computing headsets, wearable form factors, smart display concepts, and how physical sensors bridge the material world to the digital canvas.',
-      category: 'Emerging Form Factors'
+      title: 'Gaming Tech & Platforms',
+      desc: 'Mengikuti perkembangan industri game dari sisi teknologi dan performanya. Selalu antusias memperhatikan optimalisasi engine game terbaru, persaingan spesifikasi konsol, hingga hadirnya perangkat genggam (handheld gaming) yang bikin ekosistem gaming makin berkembang pesat.',
+      category: 'Gaming Industry'
     }
   ];
 

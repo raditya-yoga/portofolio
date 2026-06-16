@@ -133,7 +133,7 @@ export default function Hero() {
               marginBottom: '3.5rem'
             }}
           >
-            Saya <strong style={{ color: '#ffffff' }}>Raditya Yoga</strong>, seorang kreator yang menggabungkan presisi teknik, pengisahan cerita visual, dan kepemimpinan organisasi untuk menciptakan produk digital yang berkesan.
+            Saya <strong style={{ color: '#ffffff' }}>Raditya Yoga</strong>, seorang pelajar yang menggabungkan presisi teknik, pengisahan cerita visual, dan kepemimpinan organisasi untuk menciptakan produk digital yang berkesan.
           </motion.p>
 
           {/* highlights strip */}

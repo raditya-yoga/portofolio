@@ -98,9 +98,9 @@ export default function SkillsDashboard() {
 
               {/* Description helper text */}
               <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', marginBottom: '2rem', lineHeight: '1.5' }}>
-                {idx === 0 && 'Building rich, interactive client-side platforms using strong typing structures and modular state management workflows.'}
-                {idx === 1 && 'Developing relational and non-relational database structures, configuring REST endpoints, and structuring secure logic layers.'}
-                {idx === 2 && 'Structuring design components inside Figma libraries, versioning codebases, and editing high-fidelity media files.'}
+                {idx === 0 && 'Fokus membangun tampilan web yang interaktif, responsif, dan nyaman digunakan dari sisi pengguna, dengan struktur kode yang rapi dan mudah dikembangkan.'}
+                {idx === 1 && 'Mengelola bagian belakang layar, mulai dari bikin database (relasional & non-relasional), sampai mastiin logika sistem berjalan dengan lancar.'}
+                {idx === 2 && 'Terbiasa menggunakan Figma untuk membuat sistem desain dan prototipe web, Git/GitHub buat kolaborasi kode, serta beberapa tools kreatif untuk kebutuhan visual dan editing.'}
               </p>
 
               {/* Skills Chips list */}

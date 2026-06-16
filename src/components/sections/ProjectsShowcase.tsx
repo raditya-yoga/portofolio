@@ -23,39 +23,39 @@ export default function ProjectsShowcase() {
     {
       id: 'aria',
       title: 'ARIA',
-      tagline: 'Web-Based Augmented Reality Platform',
+      tagline: 'Web-Based AI & Augmented Reality Character',
       category: 'Design & Engineering',
-      tags: ['React', 'TypeScript', 'Three.js', 'WebXR', 'Vanilla CSS'],
-      challenge: 'Traditional augmented reality experiences require heavy native app installations, creating friction for users and limiting web accessibility.',
-      process: 'Studied WebXR standards and spatial transformations. Designed a custom viewport framework integrating Three.js to render low-latency 3D GLTF assets on lightweight canvas interfaces.',
-      solution: 'Developed a native Web-AR engine featuring instant tap-to-place coordinates, ambient occlusion shadows, and gesture-controlled rotation directly within default mobile browsers.',
-      impact: 'Eliminated native app downloads completely, reducing user onboarding steps by 100% and boosting mobile WebXR performance to 60fps.',
+      tags: ['HTML5', 'Vanilla CSS', 'JavaScript', 'OpenAI API', 'Three.js/VRM'],
+      challenge: 'Banyak aplikasi AR atau asisten AI interaktif yang mengharuskan pengguna buat download aplikasi berat dulu di HP mereka. Kelompok kami tertantang buat bikin karakter virtual interaktif yang bisa langsung diakses lewat browser web biasa tanpa ribet.',
+      process: 'Sebagai UI/UX Designer di tim ini, fokus saya adalah merancang alur interaksi (user journey) yang mulus. Saya mendesain antarmuka (interface) web yang bersih agar pengguna bisa dengan mudah mengaktifkan kamera AR, melihat karakter 3D VRM secara instan, serta berinteraksi secara visual dengan AI tanpa kebingungan.',
+      solution: 'Kolaborasi tim kami berhasil melahirkan ARIA. Bersama tim Programming dan 3D Engineer di bawah arahan Project Manager, kami menyatukan kode HTML/CSS/JS, aset karakter VRM, dan API OpenAI. Hasilnya, pengguna bisa mengobrol langsung dengan karakter virtual 3D yang hidup tepat di ruang nyata mereka.',
+      impact: 'Projek tugas besar kelompok yang dibangun bersama tim hebat. Peran anggota tim: Project Manager, Programmer, 3D Engineer, dan saya sendiri sebagai UI/UX Engineer.',
       accent: 'var(--accent-cyan)',
       visualType: 'ar'
     },
     {
       id: 'akira',
       title: 'AKIRA',
-      tagline: 'Ramen Ordering Web Experience',
+      tagline: 'Ramen Restaurant Reservation Web Design',
       category: 'UI/UX Design Case Study',
-      tags: ['Figma', 'User Research', 'Design Systems', 'Interactive Prototype'],
-      challenge: 'Digital food ordering interfaces often feel clinical and fail to convey the sensory craftsmanship of dining, leading to flat conversion rates.',
-      process: 'Conducted user interviews to analyze online menu exploration habits. Designed a custom ingredient configurator that mimics physical ramen assembly, using rich visual cards and layout grids.',
-      solution: 'Created an premium dark-mode interface featuring step-by-step ramen customization: selecting broth density, noodle bite-levels, and visual toppings inside an interactive builder.',
-      impact: 'Designed a flow that raised simulated task-completion speed by 35% and cut basket dropoff rate in user test trials.',
+      tags: ['Figma', 'Design Thinking', 'UI Design System', 'Interactive Prototype'],
+      challenge: 'Proses pemesanan tempat atau reservasi meja di restoran ramen populer sering kali membingungkan pelanggan, mulai dari antrean yang panjang di lokasi hingga sulitnya memilih area meja yang diinginkan secara online. Kelompok kami ingin membuat sistem booking web yang simpel, cepat, dan interaktif.',
+      process: 'Di projek tim beranggotakan 5 orang ini, saya dipercaya menjadi desainer utama sekaligus pemimpin tim. Saya bertanggung jawab mengarahkan alur kerja kelompok, mengambil keputusan visual, hingga memimpin transformasi hasil riset menjadi komponen high-fidelity design akhir di Figma.',
+      solution: 'Menggunakan metode Design Thinking, saya bersama teman-teman tim berkolaborasi mulai dari tahap awal (Empathize, Define, Ideate). Teman-teman tim sangat membantu dalam merumuskan kebutuhan pengguna, melakukan riset ide, hingga bahu-membahu menyusun komponen wireframe sampai menjadi interactive prototype yang solid.',
+      impact: 'Projek ini dikerjakan bersama tim beranggotakan 5 orang melalui metode Design Thinking. Terima kasih kepada seluruh anggota tim yang telah berkontribusi besar mulai dari tahap riset, merumuskan ide, hingga membantu proses pembuatan prototype di Figma.',
       accent: 'var(--primary)',
       visualType: 'ramen'
     },
     {
       id: 'polines',
       title: 'POLINES Lost & Found',
-      tagline: 'Unified Campus Recovery System',
+      tagline: 'Campus Lost and Found Web Platform',
       category: 'UI/UX Design Case Study',
-      tags: ['Figma', 'UX Research', 'Information Architecture', 'Wireframes'],
-      challenge: 'Campus-wide lost items were coordinated across fragmented messaging groups, causing low item recovery rates and security risks.',
-      process: 'Mapped campus user flows and item classification nodes. Designed a mobile-first directory structure, focusing on verification security and streamlined search queries.',
-      solution: 'Designed a verified campus lost-and-found application with categories, instant search filters, item verification forms, and a secure inbox for owner-finder coordination.',
-      impact: 'Developed a system showing 90% usability scores in student feedback loops, significantly improving predicted recovery success rates.',
+      tags: ['Figma', 'UX Research', 'Design Thinking', 'Wireframes'],
+      challenge: 'Selama ini, pengumuman barang hilang atau temuan di lingkungan kampus POLINES cuma mengandalkan grup chat umum. Akibatnya, informasi penting sering kali tertimbun oleh chat lain, membuat mahasiswa bingung, dan barang yang hilang jadi makin sulit ditemukan kembali.',
+      process: 'Di projek tim berlima ini saya bertindak sebagai desainer utama sekaligus pemimpin tim. Saya mengarahkan pembagian tugas kelompok, memvalidasi alur navigasi aplikasi, serta memastikan visual interface yang kami bangun di Figma benar-benar solutif bagi mahasiswa. ',
+      solution: 'Menggunakan metode Design Thinking, saya bersama teman-teman tim berkolaborasi dari tahap riset awal (Empathize, Define, Ideate). Teman-teman tim sangat membantu dalam memetakan kebutuhan mahasiswa, merancang kategori barang, hingga bersama-sama mengeksekusi pembuatan komponen wireframe menjadi high-fidelity prototype.',
+      impact: 'Projek ini sukses diselesaikan berkat kerja sama tim beranggotakan 5 orang. Terima kasih kepada seluruh anggota kelompok yang sudah saling bantu mulai dari mengumpulkan keresahan mahasiswa, menyusun konsep solusi, sampai mewujudkan interactive prototype ini di Figma.',
       accent: 'var(--accent-violet)',
       visualType: 'campus'
     }
@@ -256,7 +256,7 @@ export default function ProjectsShowcase() {
                 <div>
                   <h4 style={{ color: '#ffffff', fontSize: '0.9rem', fontWeight: 600, display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.25rem' }}>
                     <span style={{ width: '6px', height: '6px', borderRadius: '50%', background: projects[activeProjectIdx].accent }} />
-                    The Process
+                    My Role
                   </h4>
                   <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', paddingLeft: '0.75rem', lineHeight: '1.5' }}>
                     {projects[activeProjectIdx].process}
@@ -266,7 +266,7 @@ export default function ProjectsShowcase() {
                 <div>
                   <h4 style={{ color: '#ffffff', fontSize: '0.9rem', fontWeight: 600, display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.25rem' }}>
                     <span style={{ width: '6px', height: '6px', borderRadius: '50%', background: projects[activeProjectIdx].accent }} />
-                    The Solution
+                    The Solution & Teamwork
                   </h4>
                   <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)', paddingLeft: '0.75rem', lineHeight: '1.5' }}>
                     {projects[activeProjectIdx].solution}
@@ -285,7 +285,7 @@ export default function ProjectsShowcase() {
                 >
                   <h4 style={{ color: '#ffffff', fontSize: '0.9rem', fontWeight: 600, display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.25rem' }}>
                     <Award size={16} style={{ color: projects[activeProjectIdx].accent }} />
-                    Impact Metrics
+                    Credits
                   </h4>
                   <p style={{ fontSize: '0.85rem', color: 'var(--text-primary)', paddingLeft: '0.25rem', fontWeight: 500, lineHeight: '1.4' }}>
                     {projects[activeProjectIdx].impact}

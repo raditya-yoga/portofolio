@@ -18,10 +18,10 @@ export default function Achievements() {
   const achievementsList: AchievementItem[] = [
     {
       title: 'National Favorite Winner',
-      award: 'Videography Competition FKIP UNDIP 2023',
+      award: 'Kompetisi Videografi FKIP UNDIP 2023',
       project: 'Pesona Pesisir',
-      desc: 'Directed and edited a cinematic documentary short capturing the lives, cultural heritage, and ecological struggles of coastal fishing communities.',
-      org: 'Diponegoro University',
+      desc: 'Menyutradarai dan menyunting film dokumenter pendek bergaya sinematik yang mengangkat kehidupan, warisan budaya, serta tantangan ekologis yang dihadapi masyarakat nelayan pesisir.',
+      org: 'Universitas Diponegoro',
       year: '2023',
       icon: <Clapperboard size={24} />,
       color: 'rgba(255, 0, 60, 0.25)', // primary crimson
@@ -31,19 +31,19 @@ export default function Achievements() {
       title: 'Second Place',
       award: 'FLS2N (Festival & Lomba Seni Siswa Nasional) 2024',
       project: 'Sekar',
-      desc: 'Created an artistic narrative video centered on traditional heritage conservation, demonstrating visual storytelling and sound design mastery.',
-      org: 'Ministry of Education & Culture',
+      desc: 'Menciptakan video naratif artistik yang berfokus pada pelestarian warisan budaya tradisional, dengan menampilkan kemampuan dalam visual storytelling dan desain suara.',
+      org: 'Kementerian Pendidikan dan Kebudayaan',
       year: '2024',
       icon: <Film size={24} />,
       color: 'rgba(139, 92, 246, 0.25)', // violet
       meta: 'Narrative Film • Color Grading & Composition'
     },
     {
-      title: 'Second Place',
-      award: 'Provincial Poster Design Competition',
-      project: 'Festival Teknologi Jawa Tengah 2024',
-      desc: 'Designed a high-fidelity visual poster communicating tech-centric ecological transformations, combining visual concepts with layout grids.',
-      org: 'Central Java Tech Federation',
+      title: 'Third Place',
+      award: 'Kompetisi Desain Poster tingkat Provinsi',
+      project: 'Penghematan Penggunaan Energi Listrik',
+      desc: 'Merancang poster visual berfidelitas tinggi yang mengomunikasikan transformasi ekologis berbasis teknologi melalui perpaduan konsep visual dan tata letak yang terstruktur.',
+      org: 'Festival Teknologi Jawa tengah',
       year: '2024',
       icon: <Palette size={24} />,
       color: 'rgba(6, 182, 212, 0.25)', // cyan
@@ -64,7 +64,7 @@ export default function Achievements() {
           </div>
           <h2 className="section-title text-gradient-white">Creative Honors</h2>
           <p className="section-subtitle">
-            Recognition of visual expression, pacing, and design execution across national and regional creative competitions.
+            Meraih apresiasi atas kualitas ekspresi visual, storytelling, dan eksekusi desain dalam kompetisi kreatif tingkat regional maupun nasional.
           </p>
         </div>
 
