@@ -74,7 +74,7 @@ export default function ProjectsShowcase() {
           </div>
           <h2 className="section-title text-gradient-white">Projects Showcase</h2>
           <p className="section-subtitle">
-            Case studies of digital products developed at the intersection of design architecture and visual storytelling.
+            Intip studi kasus produk digital hasil eksplorasi saya dalam merancang tampilan web yang fungsional dan pengalaman pengguna yang menarik.
           </p>
         </div>
 

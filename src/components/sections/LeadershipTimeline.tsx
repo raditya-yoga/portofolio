@@ -72,7 +72,7 @@ export default function LeadershipTimeline() {
           </div>
           <h2 className="section-title text-gradient-white">Journey Evolution</h2>
           <p className="section-subtitle">
-            Leading teams, establishing organizations, and managing projects. A timeline of how governance and collaborative production refined my soft skills.
+            Pengalaman memimpin tim, mengelola organisasi, dan mengeksekusi berbagai projek. Ini adalah linimasa bagaimana kolaborasi tim dan manajemen projek mengasah kemampuan soft skills saya.
           </p>
         </div>
 

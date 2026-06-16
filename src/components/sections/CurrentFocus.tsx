@@ -61,7 +61,7 @@ export default function CurrentFocus() {
           </div>
           <h2 className="section-title text-gradient-white">What I'm Exploring Now</h2>
           <p className="section-subtitle">
-            A look into the technologies, design systems, and creative methodologies I am actively researching and building with today.
+           Sekilas tentang teknologi dan tren desain baru yang lagi gencar saya pelajari dan coba terapkan dalam projek-projek terbaru.
           </p>
         </div>
 

@@ -43,7 +43,7 @@ export default function SkillsDashboard() {
           </div>
           <h2 className="section-title text-gradient-white">Skills & Tools</h2>
           <p className="section-subtitle">
-            A comprehensive overview of my technical stack, development workflows, and creative applications.
+            Gambaran menyeluruh tentang kumpulan teknologi, alur kerja coding, hingga perangkat desain kreatif yang biasa saya gunakan sehari-hari.
           </p>
         </div>
 
